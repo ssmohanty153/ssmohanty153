@@ -11,7 +11,7 @@ I have a skills that include back-end development using open source technologies
 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <a href="https://github.com//ssmohanty153/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=ssmohanty153&column=7"/>
   </a>
 </div>
