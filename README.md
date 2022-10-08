@@ -101,6 +101,7 @@ Languages and Tools:
     </a>
 
 ![](https://activity-graph.herokuapp.com/graph?username=ssmohanty153&theme=react-dark&area=true)
+
 -My tech stack includes:
 -Language: Java, Javascript, Python
 -Frontend: Angular, Ionic, electron, jquery, React js.
@@ -109,7 +110,6 @@ Languages and Tools:
 -Platforms: Windows 7/8/10, Linux, macOS
 -Tools: Postman, Bitbucket, Cordovan App, Electron Application, capacitor
 -Versioning: Git
-
 - 🔭 I’m currently working on Alethea Communications Technologies PVT LTD
 - 🌱 I’m currently learning Devops
 - 🤔 I’m looking for help with free education system in my country.
