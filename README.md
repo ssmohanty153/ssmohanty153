@@ -1,12 +1,10 @@
 ### Hi Developers 👋
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
-[![Linkedin Badge](https://img.shields.io/badge/-Subhrnsu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ssmohanty153/)](https://www.linkedin.com/in/ssmohanty153/)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/aakash-)
+[![Linkedin Badge](https://img.shields.io/badge/-Subhransu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ssmohanty153/)](https://www.linkedin.com/in/ssmohanty153/)
 
 I'm
-Full Stack Solution Architect
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
+Full Stack Devloper more then 2+ years of proven software industry experience worked on multiple WIFI products related to technology, and Android applications, where I contribute as Node, Angular, and React developers.
+I have a skills that include back-end development using open source technologies (NodeJs), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive), database(MongoDB)
 
 
 ![Visitor Count](https://profile-counter.glitch.me/ssmohanty153/count.svg)
@@ -136,6 +134,19 @@ Languages and Tools:
     </a>
 
 ![](https://activity-graph.herokuapp.com/graph?username=ssmohanty153&theme=react-dark&area=true)
+My tech stack includes:
+Language: Java, Javascript, Python
+Frontend: Angular, Ionic, electron, jquery, React js.
+Backend: Node js, core java, Express JS, Node.js
+Database: MySQL, Mongo DB, SQLite 
+Platforms: Windows 7/8/10, Linux, macOS
+Tools: Postman, Bitbucket, Cordovan App, Electron Application, capacitor
+Versioning: Git
+
+- 🔭 I’m currently working on Alethea Communications Technologies PVT LTD
+- 🌱 I’m currently learning Devops
+- 🤔 I’m looking for help with free education system in my country.
+- 📫 How to reach me:ssmohanty153@gmail.com
 <!--
 **ssmohanty153/ssmohanty153** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
