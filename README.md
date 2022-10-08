@@ -103,13 +103,13 @@ Languages and Tools:
 ![](https://activity-graph.herokuapp.com/graph?username=ssmohanty153&theme=react-dark&area=true)
 
 -My tech stack includes:<br>
--Language: Java, Javascript, Python
--Frontend: Angular, Ionic, electron, jquery, React js.
--Backend: Node js, core java, Express JS, Node.js
--Database: MySQL, Mongo DB, SQLite 
--Platforms: Windows 7/8/10, Linux, macOS
--Tools: Postman, Bitbucket, Cordovan App, Electron Application, capacitor
--Versioning: Git
+-Language: Java, Javascript, Python <br>
+-Frontend: Angular, Ionic, electron, jquery, React js.<br>
+-Backend: Node js, core java, Express JS, Node.js<br>
+-Database: MySQL, Mongo DB, SQLite <br>
+-Platforms: Windows 7/8/10, Linux, macOS<br>
+-Tools: Postman, Bitbucket, Cordovan App, Electron Application, capacitor<br>
+-Versioning: Git<br><br>
 - 🔭 I’m currently working on Alethea Communications Technologies PVT LTD
 - 🌱 I’m currently learning Devops
 - 🤔 I’m looking for help with free education system in my country.
