@@ -102,7 +102,7 @@ Languages and Tools:
 
 ![](https://activity-graph.herokuapp.com/graph?username=ssmohanty153&theme=react-dark&area=true)
 
--My tech stack includes:
+-My tech stack includes:<br>
 -Language: Java, Javascript, Python
 -Frontend: Angular, Ionic, electron, jquery, React js.
 -Backend: Node js, core java, Express JS, Node.js
