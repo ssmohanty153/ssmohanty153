@@ -1,4 +1,29 @@
-### Hi Developers 👋
+<h1 align="center">Hi 👋, I'm Subhransu Sekhar Mohanty</h1>
+<h3 align="center">A passionate MERN Stack Developer from India</h3>
+
+<p align= "center">
+<img src="https://img.shields.io/badge/M-MongoDB-brightgreen"/>
+<img src="https://img.shields.io/badge/E-Express-black"/>
+<img src="https://img.shields.io/badge/R-React-skyblue"/>
+<img src="https://img.shields.io/badge/N-Node-green"/>
+<img src="https://img.shields.io/badge/JS-Javascript-yellow"/>
+</p>
+
+<br/>
+<br/>
+<img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif"/>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=suranaarpit&label=Profile%20views&color=0e75b6&style=flat" alt="suranaarpit" /> </p>
+
+- 🔭 I’m currently pursuing  **Full Stack Web Development**
+
+- 🌱 I’m currently learning **MERN Stack**
+
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/144bCZir5iXhwLOdZboAFTmAnTQXPMLHC/view)
+
+- 🗺️ Want to know more? Check out my [Portfolio](https://ssmportfolio.netlify.app/) 🌐
+
+- 📫 How to reach me **ssmohanty153@gmail.com**
 
 [![Linkedin Badge](https://img.shields.io/badge/-Subhransu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ssmohanty153/)](https://www.linkedin.com/in/ssmohanty153/)
 
