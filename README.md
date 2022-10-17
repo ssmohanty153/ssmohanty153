@@ -13,7 +13,7 @@
 <br/>
 <img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suranaarpit&label=Profile%20views&color=0e75b6&style=flat" alt="suranaarpit" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ssmohanty153&label=Profile%20views&color=0e75b6&style=flat" alt="ssmohanty153" /> </p>
 
 - 🔭 I’m currently pursuing  **Full Stack Web Development**
 
