@@ -149,6 +149,40 @@ Languages and Tools:
 
 
 ---
+---
+###  <p align="center">  :fire: My GitHub Stats :  </p>
+
+
+
+  
+  
+  <table><tr><td valign="top" width="50%">
+  
+  
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ssmohanty153&theme=dark&background=000000)](https://git.io/streak-stats)
+
+</td><td valign="top" width="50%">
+
+
+
+
+
+
+
+<!----------------------------------- GitHub Stats Section ------------------------------------>
+
+
+
+[![Abhishek Aryan Giri's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssmohanty153&show_icons=true&theme=radical)](https://github.com/abhishekaryangiri)
+
+</td></tr></table>  
+
+<br/>
+
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssmohanty153&layout=compact&theme=vision-friendly-dark)](https://github.com/ssmohanty153/github-readme-stats)
+<p align="center"> </p>  
 
 
 
@@ -158,7 +192,7 @@ Languages and Tools:
 
 
 
-<p align="center"><img src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif" alt="abhishekaryangiri"/></p>
+<p align="center"><img src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif" alt="ssmohanty153"/></p>
 
 
 ---
