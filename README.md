@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/17INMd8kPtTdIVkLQ_5mTPpuM8gXZ_-si/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1KHuWvTnxWf44EIfABTY4A5v97uDqGP6T/edit)
 
 - 🗺️ Want to know more? Check out my [Portfolio](https://ssmportfolio.netlify.app/) 🌐
 
