@@ -27,9 +27,11 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Subhransu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ssmohanty153/)](https://www.linkedin.com/in/ssmohanty153/)
 
-I'm
-Full Stack Devloper more then 2+ years of proven software industry experience worked on multiple WIFI products related to technology, and Android applications, where I contribute as Node, Angular, and React developers. Having an understanding of design patterns, Restful API development, System designing, and computer fundamentals of Data Structure and Algorithms.
-I have a skills that include back-end development using open source technologies (NodeJs), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive), database(MongoDB).
+I am a Full Stack Developer with over 3.6 years of proven software industry experience. I have worked on various projects related to technology, Android applications, HR portal development, and construction projects, where I contributed as a Node, Angular, and React developer. My expertise includes a strong understanding of design patterns, Restful API development, system design, and solid fundamentals in data structures and algorithms.
+
+My skill set encompasses back-end development using open-source technologies, specifically NodeJs. On the front end, I specialize in React, ReactJs, HTML5, CSS3, and JavaScript, ensuring responsive and user-friendly interfaces. Additionally, I have experience with database management, particularly MongoDB.
+
+This diverse background allows me to bring a comprehensive set of skills to projects, ensuring effective and efficient development across various domains, including HR portals, construction projects, and hotel management systems.
 
 
 ![Visitor Count](https://profile-counter.glitch.me/ssmohanty153/count.svg)
